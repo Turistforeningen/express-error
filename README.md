@@ -26,7 +26,7 @@ This should be put at the end of your Express route configurations. See the
 directory for more detailed examples.
 
 ```js
-app.use(require('@turistforenigen/express-error'));
+app.use(require('@turistforeningen/express-error'));
 ```
 
 ## [MIT License](https://github.com/Turistforeningen/express-error/blob/master/LICENSE)
