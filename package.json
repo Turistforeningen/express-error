@@ -1,0 +1,42 @@
+{
+  "name": "@turistforeningen/express-error",
+  "version": "1.0.0",
+  "access": "public",
+  "description": "Custom error handler for Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec -b --check-leaks test.js",
+    "watch": "mocha -R spec -b --check-leaks -w test.js",
+    "hint": "eslint index.js test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Turistforeningen/express-error.git"
+  },
+  "keywords": [
+    "error",
+    "express"
+  ],
+  "author": "Hans Kristian Flaatten <hans.kristian.flaatten@turistforeningen.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Turistforeningen/express-error/issues"
+  },
+  "homepage": "https://github.com/Turistforeningen/express-error#readme",
+  "devDependencies": {
+    "babel-eslint": "^4.0.5",
+    "eslint": "^1.1.0",
+    "eslint-config-airbnb": "0.0.7",
+    "eslint-plugin-react": "^3.2.2",
+    "express": "^4.13.3",
+    "mocha": "^2.2.5",
+    "supertest": "^1.0.1"
+  },
+  "peerDependencies": {
+    "express": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=4.0.0",
+    "iojs": ">=1.0.0"
+  }
+}
