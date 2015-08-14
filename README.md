@@ -1,9 +1,9 @@
 # express-error
 
 [![Build status](https://img.shields.io/wercker/ci/55cdda23602392657103dfac.svg "Build status")](https://app.wercker.com/project/bykey/d2d38dc4f464d2afd95c382ff4662912)
-[![NPM downloads](https://img.shields.io/npm/dm/@turistforenignen/express-error.svg "NPM downloads")](https://www.npmjs.com/package/@turistforenignen/express-error)
-[![NPM version](https://img.shields.io/npm/v/@turistforenignen/express-error.svg "NPM version")](https://www.npmjs.com/package/@turistforenignen/express-error)
-[![Node version](https://img.shields.io/node/v/@turistforenignen/express-error.svg "Node version")](https://www.npmjs.com/package/@turistforenignen/express-error)
+[![NPM downloads](https://img.shields.io/npm/dm/@turistforeningen/express-error.svg "NPM downloads")](https://www.npmjs.com/package/@turistforeningen/express-error)
+[![NPM version](https://img.shields.io/npm/v/@turistforeningen/express-error.svg "NPM version")](https://www.npmjs.com/package/@turistforeningen/express-error)
+[![Node version](https://img.shields.io/node/v/@turistforeningen/express-error.svg "Node version")](https://www.npmjs.com/package/@turistforeningen/express-error)
 [![Dependency status](https://img.shields.io/david/turistforeningen/express-error.svg "Dependency status")](https://david-dm.org/turistforeningen/express-error)
 
 Return JSON error objects from your Express backed API.
@@ -16,7 +16,7 @@ Return JSON error objects from your Express backed API.
 ## Install
 
 ```
-npm install @turistforenignen/express-error --save
+npm install @turistforeningen/express-error --save
 ```
 
 ## Usage
